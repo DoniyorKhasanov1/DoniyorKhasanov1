@@ -15,7 +15,7 @@
 
 - 💬 Ask me about: `Java`, `OOP`, `Git`, or `Software Engineering Mindset`
 
-- 📫 How to reach me: **doniyork334@google.com**
+- 📫 How to reach me: **doniyork334@gmail.com**
 
 - ⚡ Fun fact: I enjoy building logic games & small productivity tools
 
