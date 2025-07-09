@@ -64,7 +64,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=shirinov77&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true&custom_title=🚀%20GitHub%20Stats" width="400">
+        <img src="https://github-readme-stats.vercel.app/api?username=DoniyorKhasanov1&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true&custom_title=🚀%20GitHub%20Stats" width="400">
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirinov77&theme=tokyonight&background=0D1117&stroke=30363D&ring=FF6B6B&fire=4ECDC4&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B6B&sideLabels=4ECDC4&dates=96CEB4" width="400">
@@ -79,7 +79,7 @@
 </div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shirinov77&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FECA57&area=true&hide_border=true&custom_title=🔥%20Contribution%20Activity" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DoniyorKhasanov1&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FECA57&area=true&hide_border=true&custom_title=🔥%20Contribution%20Activity" width="100%">
 
 </div>
 
@@ -151,10 +151,10 @@
   <a href="mailto:doniyork334@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-shirinov-1a5b35366" target="_blank">
+  <a href="https://www.linkedin.com/in/doniyor-khasanov-3b8585339" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/shirinov77" target="_blank">
+  <a href="https://github.com/DoniyorKhasanov1" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
