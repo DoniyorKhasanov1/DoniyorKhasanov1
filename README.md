@@ -67,7 +67,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=TokhirAsadov&show_icons=true&theme=radical" width="400"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=DoniyorKhasanov1&show_icons=true&theme=radical" width="400"></td>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=DoniyorKhasanov1&theme=radical" width="400"></td>
     </tr>
     <tr>
